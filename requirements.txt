@@ -1,0 +1,8 @@
+flask
+openai
+tldextract
+requests
+beautifulsoup4
+lxml
+fake-useragent
+python-dotenv
